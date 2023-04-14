@@ -11,6 +11,7 @@ I have a growing passion for AI and its application in digitial health as well a
 Check me out elsewhere:
 - LinkedIn: [Haymen Lau](https://www.linkedin.com/in/haymenlau/)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haymn&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 
