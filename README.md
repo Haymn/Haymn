@@ -7,10 +7,10 @@
 :heart_on_fire: I'm interested in the application of technology in the pre-hospital environment, learning optimisation, personal productivity, as well as health and nutrition.
 
 
-Check me out elsewhere:
+**Check me out elsewhere:**
 
-:arrow_right: LinkedIn: [Haymen Lau](https://www.linkedin.com/in/haymenlau/)
-:arrow_right: Portfolio: [Haymen Lau](haymenlau.com)
+:arrow_right: **LinkedIn:** [Haymen Lau](https://www.linkedin.com/in/haymenlau/)
+:arrow_right: **Portfolio:** [Haymen Lau](haymenlau.com)
 
 
 
