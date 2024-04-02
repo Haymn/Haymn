@@ -1,17 +1,17 @@
-### Hi there 👋
+# Hi, I'm Haymen 👋
 
-My name is Haymen and I am a paramedic that is teaching myself to program.
+:australia: I am a paramedic based in Australia who is passionate about computers, technology and programming.
 
-I’m currently working on learning the fundamentals of computer science. Specifically, at the moment I am learning about different algorithms and data structures. 
+:building_construction: I'm currently building a web application using Python, SQLite3, Flask, Jinja, HTML and CSS.
 
-I am also learning programming languages: C, Python, SQL and JavaScript as well trying to learn and become proficient with Vim.
+:heart_on_fire: I'm interested in the application of technology in the pre-hospital environment, learning optimisation, personal productivity, as well as health and nutrition.
 
-I have a growing passion for AI and its application in digitial health as well as developing software that helps optimimse learning. 
 
 Check me out elsewhere:
-- LinkedIn: [Haymen Lau](https://www.linkedin.com/in/haymenlau/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haymn&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
+:arrow_right: LinkedIn: [Haymen Lau](https://www.linkedin.com/in/haymenlau/)
+:arrow_right: Portfolio: [Haymen Lau](haymenlau.com)
+
 
 
 
